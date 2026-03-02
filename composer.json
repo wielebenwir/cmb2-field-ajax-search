@@ -2,7 +2,7 @@
   "name": "ed-itsolutions/cmb2-field-ajax-search",
   "description": "CMB2",
   "require": {
-    "php": "^5.3.3 || ^7.0 || ^8.2"
+    "php": "^5.3.3 || ^7.0 || ^8.1"
   },
   "license": "GPL-2.0-or-later",
   "authors": [
